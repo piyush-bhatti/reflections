@@ -31,5 +31,9 @@ a branch
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+A single commit now points to both branches, and incorporates the 
+commits of both branches into one. Because it points to the tip of
+both branches
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
