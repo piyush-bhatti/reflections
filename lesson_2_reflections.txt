@@ -25,6 +25,9 @@ without having any interference from changes on the other
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams tell us the parent of each commit and show us commits without
+a branch
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
