@@ -37,3 +37,7 @@ both branches
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Pros: less time consuming, we get all the commit history of both branches
+Cons: might have overlaps from intuitive refactoring that git can't 
+identify
