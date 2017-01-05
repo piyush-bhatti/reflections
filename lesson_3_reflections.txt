@@ -34,4 +34,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When collaborating with other people to ask for reviews before updating
+    master. It allows the master to always remain in a working state
+    and all changes to be reviewed before incorporating in master
